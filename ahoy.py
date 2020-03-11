@@ -1,6 +1,6 @@
 # This driver script performs the following tasks
-# (1) Move to the directory containing the automation scripts
-# (2) Execute the automation scripts: auto.py and barca.py
+# (1) Move to the directory containing the web scraping and automation scripts, viz. barca.py and auto.py
+# (2) Execute the aforementioned scripts
 
 import os
 

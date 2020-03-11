@@ -1,5 +1,5 @@
 # This Web Scraping script performs the following tasks:
-# (1) Scrape 2 football websites, viz. Marca and Barca Blaugranes for FC Barcelona news
+# (1) Scrape two renowned football websites, viz. Marca and Barca Blaugranes for FC Barcelona news
 # (2) Find today's news articles and open them in new tabs in Google Chrome
 
 import requests
