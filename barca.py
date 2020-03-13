@@ -9,9 +9,8 @@ import webbrowser
 
 def main():
     cur_date = str(datetime.date(datetime.now()))   # Find current date
-    year, month, day = cur_date.split('-')
-    month = str(int(month))
-    day = str(int(day))
+    date = datetime.today() # Find current date
+    year, month, day = str(date.year), str(date.month), str(date.day)
     trim_date = year + month + day
     url_marca = 'https://www.marca.com/en/football/barcelona.html?intcmp=MENUPROD&s_kw=english-barcelona'
     url_sbnation = 'https://www.barcablaugranes.com/archives/' + year + '/' + month
