@@ -23,7 +23,7 @@ __Ahoy__ contains Python scripts which I have written while learning basic Web S
 
 * Clone this repository to your local system.
 * Add/Change the path variables for the web browser, IDE and Jupyter Notebook (if needed) in [__auto.py__](auto.py).
-* Add/Change the path variable for the cloned repository (if needed) in[__ahoy.py__](ahoy.py).
+* Add/Change the path variable for the cloned repository (if needed) in [__ahoy.py__](ahoy.py).
 * Add the path to the cloned repository as a *__Path__* __System Variable__ under the __Environment Variables__ section in __System Settings__.
 
 #### NOTE:
