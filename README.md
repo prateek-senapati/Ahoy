@@ -1,6 +1,6 @@
 # Ahoy
 
-__Ahoy__ contains Python scripts which I have written while learning basic Web Scraping and Automation.
+__Ahoy__ contains Python scripts which I have written while learning basic Web Scraping and Automation. These scripts help me complete daily tasks automatically which I used to do manually earlier, such as launching a few important applications and fetching the latest news of my favourite football club. 
 
 ### [barca.py](barca.py)
 
